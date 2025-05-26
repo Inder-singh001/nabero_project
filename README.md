@@ -1,4 +1,4 @@
-# 🗓️ Weekly Training Diary
+# 🗓️ Weekly Training 
 
 This repository documents my 5-month training journey with weekly progress logs for each phase.
 
